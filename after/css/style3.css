@@ -1,94 +1,13 @@
-#k{
-	background-color: skyblue;
-
-}
-#header-nav a h1{
- color: black;
- text-transform: uppercase;
- opacity: 0.8;
- font-family: sans-serif;
- font-weight: bold;
- font-size: 3em;
- position: relative;
- margin-top: 30px;
- 
-}
-#nav-list{
-	color: grey;
-	font-size: 1.5em;
-	font-weight: bold;
-	text-align: right;
-}
-
-#menu h1{
-	font-style: italic;
-	font-size: 25px;
-	margin-top: 30px;
-	color: black;
-	text-align: center;
-	font-weight: bold;
-}
-#chicken ,#Beef,#Sushi {
-	width:90%;
-	color:black;
-    background-color: grey;
-	border:5px solid black;
-	text-align: center ;
-	margin-top:30px;
-	margin-bottom: 30px;
-	margin: 35px;
-
-	padding: 15px;
-	
-}
-
-#seafood{
-	color: red;
-	text-transform: uppercase;
-	text-align: center;
-	font-size: 25px;
-	font-weight: bold;
-}
-
-.btn {
-  border: none;
-  background-color: inherit;
-  padding: 14px 28px;
-  font-size: 16px;
-  cursor: pointer;
-  display: inline-block;
-  color: white;
-}
-
-/* On mouse-over */
-.btn:hover {background: #eee;}
-
-.success {
-	color:black;
-
+body{
+	font-size: 16px;
+	color: white;
+	background-color: #61122f;
+	font-family: oxygen, sans-serif;
 }
 
 
-
-
-
-@media(min-width: 1200px){
-
-{
-	width: 90%;
-	
-
+#header-nav {
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
 }
-/*@media(min-width:768px) and (max-width: 1024px){
-	
-#menu {
-	width: 50%;
-    
-	
-}
-}
-@media(max-width: 400px) {
-#menu {
-	width: 30%;
-	
-		}*/
